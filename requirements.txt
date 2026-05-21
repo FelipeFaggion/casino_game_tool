@@ -1,0 +1,4 @@
+nicegui
+pandas
+requests
+openpyxl

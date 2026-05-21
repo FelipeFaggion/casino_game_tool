@@ -1,0 +1,17 @@
+TODO:
+    - Make main_area prettier
+    - Add option to filter per skin id
+    - Add option to generate file with tabs for each skin
+    - Make user-input check, don't allow empty input trigger
+    - If we deploy, how to handle the saved json ? We can't expose the tokens
+    - Check possibility to use OKTA as a login, this way no issue in having token shared?
+    - Make a whitelist ? Hmmm gota think
+
+# Mac/Linux
+LOCAL_MODE=true python main.py
+
+# Windows PowerShell
+$env:LOCAL_MODE="true"; python main.py
+
+# Windows CMD
+set LOCAL_MODE=true && python main.py
