@@ -5,6 +5,7 @@ TODO:
     - Make user-input check, don't allow empty input trigger
     - Tooltip on correct inputs (for example complete hostname.evo-games.com)
     - Add bet amounts of games ? - reward games api
+    - Create login + authentication - for now based on a whitelist.txt file
 
 
 # Mac/Linux
